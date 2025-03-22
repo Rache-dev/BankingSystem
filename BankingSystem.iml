@@ -7,5 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/jBCrypt-0.4/jBCrypt-0.4/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
